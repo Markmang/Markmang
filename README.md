@@ -1,24 +1,66 @@
-# 👋 Hi, I'm Mark Udeagha!
+👋 Hi, I'm Mark Udeagha
 
-I'm a passionate Software Engineer from Nigeria, dedicated to solving real-world problems and helping people achieve their dreams through technology.
+I'm a passionate Software Engineer from Nigeria dedicated to solving real-world problems and helping people achieve their dreams through technology.
+I believe in building solutions that empower people and make the world a better place 🌍.
 
-🌱 Currently learning: Backend Development (Python, Node.js, Java) at ALX  
-💻 Building: Functional websites and web apps for individuals and organizations that make the world a better place  
-🎯 Goals: To be a role model for African youth striving for greatness and to build scalable products that improve lives.
 
-## 🚀 Tech Stack
-- 🔧 Languages: Python, Node.js, Java, JavaScript
-- 🌐 Frameworks: Express, Django
-- 🗄️ Databases: MySQL, MongoDB
-- ⚙️ Tools: Git, Docker, Linux
+---
 
-## 💡 Fun Facts
-- 🎓 I have a degree in Anatomy!
-- 🧠 I love tackling complex problems and seeing them through.
-- 💬 I'm always up for discussing new ideas or collaborations.
+🌱 What I'm Working On
 
-## 📫 How to reach me
-- LinkedIn: [Mark Udeagha] https://www.linkedin.com/in/mark-udeagha-281b88233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: markudeagha@gmail.com
+Currently learning DevOps (AWS, Docker, Jenkins, Terraform, Kubernetes).
 
+Certified Backend Developer (Python/Django) through ALX.
+
+Building functional and scalable web applications for individuals and organizations that drive impact.
+
+
+
+---
+
+🚀 Tech Stack
+
+Languages: Python
+
+Frameworks: Django
+
+Databases: MySQL, MongoDB
+
+Tools & Technologies: Git, Docker, Linux, CI/CD (in progress)
+
+
+
+---
+
+🎯 Goals
+
+To become a world-class Backend & DevOps Engineer.
+
+To mentor and inspire African youth striving for greatness.
+
+To build scalable digital products that improve lives across the globe.
+
+
+
+---
+
+💡 Fun Facts
+
+🎓 I hold a Bachelor’s degree in Anatomy.
+
+🧠 I enjoy solving challenging problems and turning ideas into working systems.
+
+🤝 Always open to collaboration, innovation, and learning.
+
+
+
+---
+
+📫 Connect With Me
+
+LinkedIn: Mark Udeagha
+
+Email: markudeagha@gmail.com
+
+GitHub: github.com/MarkMang
 
